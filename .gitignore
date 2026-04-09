@@ -1,4 +1,5 @@
 build/
+box2d/build/
 .DS_Store
 .vscode/
 .cph/
