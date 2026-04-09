@@ -1,0 +1,9 @@
+build/
+.DS_Store
+.vscode/
+.cph/
+*.o
+*.out
+*.a
+*.dylib
+*.so
